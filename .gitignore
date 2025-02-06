@@ -1,0 +1,13 @@
+# Ignore data files
+*.csv
+*.json
+*.xml
+*.xls
+*.xlsx
+*.h5
+*.hdf5
+*.zip
+*.tar.gz
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
